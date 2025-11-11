@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cow, I'm currently majoring in Computer Science!</h2>
+<h2 align="left">Hi 👋! My name is Marzia, I'm currently majoring in Computer Science!</h2>
 
 ###
 
