@@ -2,7 +2,7 @@
 
 > Developer passionate about creating efficient, scalable, and user-friendly web applications, as well as working within the field of Data Science and ML.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzia-raposo-arraes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzia-raposo-b296612a0/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coooow)
 
 ## 👨‍💻 About Me
@@ -96,7 +96,7 @@ Two websites that are designed to help students practice for these subject's exa
 
 ## 📫 How to reach me
 
-- LinkedIn: [Marzia Raposo Arraes](https://www.linkedin.com/in/marzia-raposo-arraes/)
+- LinkedIn: [Marzia Raposo Arraes](https://www.linkedin.com/in/marzia-raposo-b296612a0/)
 - Email: mraposobusiness@gmail.com
 
 ---
@@ -104,5 +104,5 @@ Two websites that are designed to help students practice for these subject's exa
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=coooow&color=blueviolet" alt="Profile Views"/>
   
-  ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cowfps)
 </div>
